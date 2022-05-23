@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646792652198",
+    "project_id": "quwinn-7bd4c",
+    "storage_bucket": "quwinn-7bd4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646792652198:android:663f5b143386b277b41b67",
+        "android_client_info": {
+          "package_name": "com.example.quwinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646792652198-1kqh8a2m6shllb8dmbk5ggu2av770gb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSm9j1-LjNWCzFmDC5u4oo3xqJageNLOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646792652198-1kqh8a2m6shllb8dmbk5ggu2av770gb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
